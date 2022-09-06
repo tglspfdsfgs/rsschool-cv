@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tglspfdsfgs.github.io/rsschool-cv/cv
