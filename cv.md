@@ -8,8 +8,11 @@
 **Github:** <https://github.com/tglspfdsfgs>  
 **Codewars:** <https://www.codewars.com/users/tglspfdsfgs>
 
-## About me:  
-qwerty
+## Few words about me:  
+A beginner frontend developer, 26 years old, from Kiev.  
+I want to obtain more practial skills in WebDev to be useful for my future team, so I'm opened to all educational oppotunities.  
+I'm thorough self learner and yet haven't had problems with solving tasks on my own (thanks to google).  
+Nuff said ヽ(ー_ー )ノ
 
 ## Skills:
 * HTML + CSS (SASS) [adaptive and responsive design]
